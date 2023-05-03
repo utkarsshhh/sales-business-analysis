@@ -7,7 +7,7 @@
 
 I have built this project based on the data provided by [Stratascratch](https://www.stratascratch.com) as part of a Data project. It provides the sales data for 50 weeks and this code analyzes the data to answer the following business questions:
 
-1. When as been there a sudden change in the daily
+1. When has been there a sudden change in the daily
 2. Is the sudden change in the daily sales is due to change in the gender ratio of the consumers ?
 3. How are the sales distributed over the four dayparts of a day (morning, afternoon, evening, night) ?
 
@@ -29,6 +29,6 @@ The following libraries have been used in the code:
 
 ## Result
 
-The data has been wrangled according to the use cases of the business. The plots using pandas and matplotlib have been used to visualise the analysis of the data and answer the busniess questions.
+The data has been wrangled according to the use cases of the business. The plots using pandas and matplotlib have been used to visualise the analysis of the data and provide answers relevant to the business.
 
 
